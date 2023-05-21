@@ -29,6 +29,7 @@ instagram_username                        : ebaehr
 twitter_username                          : ebaehr
 github_username                           : emilbaehr
 youtube_username                          :
+mastodon_link                             : https://mastodon.social/@ebaehr
 
 
 
@@ -106,6 +107,17 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
 
 
 ####################################################
